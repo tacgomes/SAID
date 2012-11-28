@@ -1,0 +1,4 @@
+SAID is an automatic classifier of digital documents based on the application of semantic clustering techniques, like the k-means clustering algorithm and latent semantic indexing.
+
+The system can parse plain text documents, pdfs, Microsoft Office documents (doc, docx, ppt, pptx, xls, xlsx) and documents in the OpenDocument formats (odt, odp, ods).
+
